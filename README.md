@@ -1,90 +1,95 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Smijal+Mathew+Thomas;Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;SOC+%C2%B7+Cloud+Security+%C2%B7+Detection+Engineering" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=680&lines=Cybersecurity+Analyst+%E2%80%94+Blue+Team;SOC+Operations+%C2%B7+SIEM+%C2%B7+Detection+Engineering;Cloud+Security+%C2%B7+Azure+%C2%B7+Automation" alt="Typing SVG" />
+<img alt="Cybersecurity" width="1010" height="300" src="assets/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif">
 
-<h1>Smijal Mathew Thomas</h1>
+<h2 align="center">Hey there! I'm Smijal Mathew Thomas 🛡️</h2>
 
-<p>
-<a href="https://www.linkedin.com/in/smijal-mathew-thomas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://smijal-mathew-thomas.github.io/Portfolio-Website"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-<a href="mailto:smijalmathewthomass@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Calgary,_AB-1B1F3B?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" />
+<img align="right" alt="Security Operations" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🛡️ I'm a **Cybersecurity Analyst** — Blue Team, SOC & cloud security.
+- 🔍 I triage real alerts, write detections, and hunt threats.
+- ☁️ I automate security in **Azure** and harden cloud posture.
+- 🏆 I compete in **CTFs** and build home-lab SOCs for fun.
+
+<h3 align="left">🎯 Current Focus:</h3>
+<ul>
+  <li>Building <b>CYBERSEC PRO</b> — a containerized vulnerability & MDR platform 🐳</li>
+  <li>Expanding my <b>Azure CSPM Scanner</b> with CIS / NIST mappings ☁️</li>
+  <li>Sharpening KQL / Sentinel detection engineering 🔎</li>
+  <li>Preparing for <b>CompTIA Security+</b> — July 2026 📝</li>
+</ul>
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/smijal-mathew-thomas"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:smijalmathewthomass@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://smijal-mathew-thomas.github.io/Portfolio-Website"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
 
-</div>
+<h3 align="left">🚀 Languages & Tools:</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+</p>
 
----
+<h3 align="left">🔐 Security Stack:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=windowsdefender&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-D7263D?style=flat-square&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-243447?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-FF6600?style=flat-square&logo=snort&logoColor=white" />
+</p>
 
-### `>` whoami
+<h3 align="left">🛠️ Featured Project:</h3>
 
-Cybersecurity Analyst with hands-on **SOC** and **cloud security** experience — triaging alerts, writing detections, and automating security in **Azure**. I live at the seam between **detection engineering** and **cloud security posture**, and spend my off-hours in CTFs and home-lab SOC builds.
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="cloud security" width="300" height="150">
+    </td>
+    <td>
+      <b><a href="https://github.com/Smijal-Mathew-Thomas/Azure-CSPM-Scanner">Automated Cloud Security Posture Scanner</a></b><br/>
+      A serverless Azure scanner built with Functions, Terraform & Managed Identity that flags storage, TLS and NSG misconfigurations, then generates audit-ready remediation reports mapped to CIS & NIST.
+    </td>
+  </tr>
+</table>
 
-- 🔭 Building **CYBERSEC PRO** — a containerized vulnerability & MDR platform
-- ☁️ Expanding my **Azure CSPM Scanner** with CIS / NIST mappings
-- 🏆 **1st place** — Hack the Planet CTF (SAIT), March 2026
-- 📝 **CompTIA Security+** — scheduled July 2026
-- 💬 Ask me about **KQL/Sentinel detections** & **Azure hardening**
+<h3 align="left">🏆 Recent Win:</h3>
+<p align="left">🥇 <b>1st Place</b> — Hack the Planet CTF (SAIT), March 2026</p>
 
----
+<h3 align="left">😆 Fun Fact:</h3>
+<p align="left">I once built a honeypot expecting a slow week — it logged its first brute-force attempt in under 10 minutes. 🍯</p>
 
-### `>` toolkit
+<hr>
 
-**SOC & SIEM**
-&nbsp;
-![Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![QRadar](https://img.shields.io/badge/IBM_QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=windowsdefender&logoColor=white)
+<h3 align="left">📊 GitHub Stats:</h3>
 
-**Cloud & Infrastructure**
-&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<p align="center">
+  <a href="https://github.com/Smijal-Mathew-Thomas?tab=repositories">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Smijal-Mathew-Thomas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
+  </a>
+  <a href="https://github.com/Smijal-Mathew-Thomas?tab=repositories">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smijal-Mathew-Thomas&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  </a>
+</p>
 
-**Languages & Security Tooling**
-&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-D7263D?style=flat-square&logo=mitre&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-243447?style=flat-square&logo=nmap&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF6600?style=flat-square&logo=snort&logoColor=white)
+<hr>
 
----
+<h3 align="left">💬 Sign-off:</h3>
+<em>"Trust is earned in the logs, one alert at a time." 🔒</em>
 
-### `>` featured work
-
-| Project | Stack |
-|---|---|
-| 🔐 **[Azure CSPM Scanner](https://github.com/Smijal-Mathew-Thomas/Azure-CSPM-Scanner)** — serverless Azure scanner that flags storage, TLS & NSG gaps and outputs audit-ready remediation reports. | `Python` `Terraform` `Functions` `RBAC` |
-| 🛡️ **[CYBERSEC PRO](https://github.com/Smijal-Mathew-Thomas/cybersec-pro)** — containerized vuln scanner + real-time MDR with Snort IDS/IPS, honeypots & Splunk. | `Django` `Go` `Docker` `Snort` |
-| ☁️ **Cloud SOC — Sentinel** — end-to-end Azure SOC lab with honeypot VM, Log Analytics & custom KQL detections. | `Sentinel` `KQL` |
-| 🧪 **[Defensive Lab](https://github.com/Smijal-Mathew-Thomas/Defensive-Lab)** — ICS/OT security lab on GRFICSv2 for studying industrial attack surfaces. | `ICS/OT` `C++` |
-
----
-
-### `>` recognition
-
-🥇 **1st** · Hack the Planet CTF (SAIT) — Mar 2026 &nbsp;•&nbsp; 🏅 16th · WiCyS Cross-Chapter CTF &nbsp;•&nbsp; 🏅 18th · NCC CTF
-
-**Certs:** Fortinet FCF · SailPoint Identity Security Leader · Google Cybersecurity · CompTIA Security+ *(Jul 2026)*
-
----
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Smijal-Mathew-Thomas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smijal-Mathew-Thomas&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Smijal-Mathew-Thomas&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Smijal-Mathew-Thomas&style=flat-square&color=00E5FF" alt="Profile views" />
-
-</div>
+<img src="https://komarev.com/ghpvc/?username=Smijal-Mathew-Thomas&style=flat-square&color=00E5FF" alt="Profile views" align="right" />
