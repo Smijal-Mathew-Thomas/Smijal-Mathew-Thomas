@@ -65,22 +65,4 @@
 <h3 align="left">🏆 Recent Win:</h3>
 <p align="left">🥇 <b>1st Place</b> — Hack the Planet CTF (SAIT), March 2026</p>
 
-<h3 align="left">😆 Fun Fact:</h3>
-<p align="left">I've triaged 100+ SIEM alerts a month at work — so by now my brain auto-flags "suspicious login activity" even when it's just me forgetting my own password. 🔐</p>
-
-<hr>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<div align="center">
-
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Smijal-Mathew-Thomas&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smijal-Mathew-Thomas&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-
-</div>
-
-<hr>
-
-<h3 align="left">🔒 Sign-off:</h3>
-<em>"Trust is earned in the logs, one alert at a time."</em>
-
 <img src="https://komarev.com/ghpvc/?username=Smijal-Mathew-Thomas&style=flat-square&color=00E5FF" alt="Profile views" align="right"/>
