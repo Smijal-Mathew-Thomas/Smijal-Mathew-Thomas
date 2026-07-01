@@ -1,8 +1,8 @@
-<img alt="Coding" width="1010" height="300" src="assets/coding-banner.gif">
+<img alt="Smijal Mathew Thomas — Cybersecurity Analyst" width="850" src="assets/cool-coding-banner.gif">
 
 <h2 align="center">Hey there! I'm Smijal Mathew Thomas 🛡️</h2>
 
-<img align="right" alt="Security Operations" width="350" src="assets/radar-scan.svg">
+<img align="right" alt="Security Operations" width="350" src="assets/radar-scan.gif">
 
 - 🛡️ I'm a **Cybersecurity Analyst**.
 - 🕵️ Skilled in SOC operations, SIEM triage, and cloud security.
@@ -54,7 +54,7 @@
 <table>
   <tr>
     <td>
-      <img src="assets/shield-scan.svg" alt="scanning" width="300">
+      <img src="assets/shield-scan.gif" alt="scanning" width="300">
     </td>
     <td>
       Building out <b>CYBERSEC PRO</b>, a containerized network vulnerability & MDR platform (Django + Go + Docker + Snort), and expanding my <b>Azure Cloud Security Posture Scanner</b> with more CIS/NIST compliance mappings. Also finishing my Post Diploma in Data Analytics at SAIT and studying for the CompTIA Security+ exam, scheduled July 24, 2026.
