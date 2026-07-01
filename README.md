@@ -1,4 +1,4 @@
-<img alt="Smijal Mathew Thomas — Cybersecurity Analyst" width="850" src="assets/cool-coding-banner.gif">
+<img alt="Smijal Mathew Thomas — Cybersecurity Analyst" width="850" src="assets/cool-coding-banner-v2.gif">
 
 <h2 align="center">Hey there! I'm Smijal Mathew Thomas 🛡️</h2>
 
